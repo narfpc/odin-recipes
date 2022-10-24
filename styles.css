@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(218, 239, 227);
+    font-size: 25px;
+    font-style: inherit;
+    color: rgb(2, 47, 22);
+    margin: 50px, 0px, 100px, 20px;
+}
+img {
+    height: 500px;
+    width: 500px;
+}
+p,
+ol,
+ul {
+    width: 600px;
+}
+ol{
+    width: 600px;
+}
+h1,
+h2,
+h3,
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    font-size: 20px;
+    width: 120px;
+    height: 30px;
+    display: block;
+    text-decoration: none;
+    color:black;
+    background-color: lavender;
+    border: black 2px solid;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 6px;
+
+}
